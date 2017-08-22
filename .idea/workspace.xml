@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcacb882-6716-46f0-a403-7889d9563b30" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/default/blocco-header.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/default/blocco-header.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/default/footer.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/default/footer.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/default/head.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/default/head.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/default/blocco-contatti.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/default/blocco-contatti.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/default/blocco-pacchetti.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/default/blocco-pacchetti.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css/main.css" afterPath="$PROJECT_DIR$/web/css/main.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,11 +31,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html.twig" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Resources/views/default/footer.html.twig">
+      <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="150">
+              <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+              <folding>
+                <element signature="e#45#68#0#Twig" expanded="true" />
+                <element signature="e#136#168#0#Twig" expanded="true" />
+                <element signature="e#185#218#0#Twig" expanded="true" />
+                <element signature="e#235#276#0#Twig" expanded="true" />
+                <element signature="e#293#325#0#Twig" expanded="true" />
+                <element signature="e#342#377#0#Twig" expanded="true" />
+                <element signature="e#446#483#0#Twig" expanded="true" />
+                <element signature="e#500#538#0#Twig" expanded="true" />
+                <element signature="e#555#589#0#Twig" expanded="true" />
+                <element signature="e#605#630#0#Twig" expanded="true" />
+                <element signature="e#647#684#0#Twig" expanded="true" />
+                <element signature="e#701#726#0#Twig" expanded="true" />
+                <element signature="e#743#764#0#Twig" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blocco-contatore.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/default/blocco-contatore.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="63" lean-forward="false" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="779" column="35" lean-forward="false" selection-start-line="779" selection-start-column="35" selection-end-line="779" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blocco-contatti.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/default/blocco-contatti.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="35" column="98" lean-forward="false" selection-start-line="35" selection-start-column="98" selection-end-line="35" selection-end-column="98" />
               <folding />
             </state>
           </provider>
@@ -61,6 +101,7 @@
       <find>pacchett</find>
       <find>hiss</find>
       <find>contato</find>
+      <find>contact u</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -74,8 +115,6 @@
         <option value="$PROJECT_DIR$/app/Resources/views/default/testimonial.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/contatore.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/blocco-caratteristiche.html.twig" />
-        <option value="$PROJECT_DIR$/app/Resources/views/default/blocco-contatti.html.twig" />
-        <option value="$PROJECT_DIR$/app/Resources/views/default/blocco-pacchetti.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/blocco-servizi.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/blocco-banner.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/blocco-calltoaction.html.twig" />
@@ -86,6 +125,9 @@
         <option value="$PROJECT_DIR$/app/Resources/views/default/head.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/blocco-header.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/footer.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/default/blocco-pacchetti.html.twig" />
+        <option value="$PROJECT_DIR$/web/css/main.css" />
+        <option value="$PROJECT_DIR$/app/Resources/views/default/blocco-contatti.html.twig" />
       </list>
     </option>
   </component>
@@ -166,6 +208,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="hiss2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hiss2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hiss2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -411,12 +467,12 @@
       <option name="presentableId" value="Default" />
       <updated>1503308176167</updated>
       <workItem from="1503308177771" duration="14149000" />
-      <workItem from="1503384971421" duration="2977000" />
+      <workItem from="1503384971421" duration="4168000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17126000" />
+    <option name="totallyTimeSpent" value="18317000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1001" extended-state="6" />
@@ -468,12 +524,12 @@
         <state relative-caret-position="3375">
           <caret line="225" column="42" lean-forward="false" selection-start-line="225" selection-start-column="42" selection-end-line="225" selection-end-column="42" />
           <folding>
+            <element signature="e#45#68#0#Twig" expanded="true" />
             <element signature="e#136#168#0#Twig" expanded="true" />
             <element signature="e#185#218#0#Twig" expanded="true" />
             <element signature="e#235#276#0#Twig" expanded="true" />
             <element signature="e#293#325#0#Twig" expanded="true" />
             <element signature="e#342#377#0#Twig" expanded="true" />
-            <element signature="e#394#429#0#Twig" expanded="true" />
             <element signature="e#446#483#0#Twig" expanded="true" />
             <element signature="e#500#538#0#Twig" expanded="true" />
             <element signature="e#555#589#0#Twig" expanded="true" />
@@ -509,34 +565,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/blocco-contatore.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/default/blocco-caratteristiche.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1155">
           <caret line="77" column="10" lean-forward="false" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/blocco-contatti.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/blocco-pacchetti.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="94" column="6" lean-forward="false" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -607,28 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding>
-            <element signature="e#136#168#0#Twig" expanded="true" />
-            <element signature="e#185#218#0#Twig" expanded="true" />
-            <element signature="e#235#276#0#Twig" expanded="true" />
-            <element signature="e#293#325#0#Twig" expanded="true" />
-            <element signature="e#342#377#0#Twig" expanded="true" />
-            <element signature="e#394#429#0#Twig" expanded="true" />
-            <element signature="e#446#483#0#Twig" expanded="true" />
-            <element signature="e#500#538#0#Twig" expanded="true" />
-            <element signature="e#555#589#0#Twig" expanded="true" />
-            <element signature="e#605#630#0#Twig" expanded="true" />
-            <element signature="e#647#684#0#Twig" expanded="true" />
-            <element signature="e#701#726#0#Twig" expanded="true" />
-            <element signature="e#743#764#0#Twig" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/default/head.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -649,6 +659,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/blocco-pacchetti.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="e#45#68#0#Twig" expanded="true" />
+            <element signature="e#136#168#0#Twig" expanded="true" />
+            <element signature="e#185#218#0#Twig" expanded="true" />
+            <element signature="e#235#276#0#Twig" expanded="true" />
+            <element signature="e#293#325#0#Twig" expanded="true" />
+            <element signature="e#342#377#0#Twig" expanded="true" />
+            <element signature="e#446#483#0#Twig" expanded="true" />
+            <element signature="e#500#538#0#Twig" expanded="true" />
+            <element signature="e#555#589#0#Twig" expanded="true" />
+            <element signature="e#605#630#0#Twig" expanded="true" />
+            <element signature="e#647#684#0#Twig" expanded="true" />
+            <element signature="e#701#726#0#Twig" expanded="true" />
+            <element signature="e#743#764#0#Twig" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/blocco-contatore.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="63" lean-forward="false" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="779" column="35" lean-forward="false" selection-start-line="779" selection-start-column="35" selection-end-line="779" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/blocco-contatti.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="35" column="98" lean-forward="false" selection-start-line="35" selection-start-column="98" selection-end-line="35" selection-end-column="98" />
           <folding />
         </state>
       </provider>
