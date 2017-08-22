@@ -2,25 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcacb882-6716-46f0-a403-7889d9563b30" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/blocco-banner.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/blocco-calltoaction.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/blocco-caratteristiche.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/blocco-contatore.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/blocco-contatti.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/blocco-header.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/blocco-pacchetti.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/blocco-scrolltotop.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/blocco-servizi.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/blocco-testimonial.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/footer.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/head.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/js.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/loader.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/menu.html.twig" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/AppBundle/Controller/DefaultControllerTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/default/blocco-header.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/default/blocco-header.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/default/footer.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/default/footer.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/default/head.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/default/head.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,37 +26,21 @@
       <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
               <folding>
-                <element signature="e#40#99#0#PHP" expanded="false" />
+                <element signature="e#447#465#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <file leaf-file-name="footer.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/default/footer.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-              <folding>
-                <element signature="e#45#68#0#Twig" expanded="true" />
-                <element signature="e#92#115#0#Twig" expanded="true" />
-                <element signature="e#132#164#0#Twig" expanded="true" />
-                <element signature="e#181#214#0#Twig" expanded="true" />
-                <element signature="e#231#272#0#Twig" expanded="true" />
-                <element signature="e#289#321#0#Twig" expanded="true" />
-                <element signature="e#338#373#0#Twig" expanded="true" />
-                <element signature="e#390#425#0#Twig" expanded="true" />
-                <element signature="e#442#479#0#Twig" expanded="true" />
-                <element signature="e#496#534#0#Twig" expanded="true" />
-                <element signature="e#551#585#0#Twig" expanded="true" />
-                <element signature="e#601#626#0#Twig" expanded="true" />
-                <element signature="e#643#680#0#Twig" expanded="true" />
-                <element signature="e#697#722#0#Twig" expanded="true" />
-                <element signature="e#739#760#0#Twig" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -97,22 +69,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/Resources/views/default/head.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/menu.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/js.html.twig" />
-        <option value="$PROJECT_DIR$/app/Resources/views/default/footer.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/testimonial.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/contatore.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/blocco-caratteristiche.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/blocco-contatti.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/blocco-pacchetti.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/blocco-servizi.html.twig" />
-        <option value="$PROJECT_DIR$/app/Resources/views/default/blocco-header.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/blocco-banner.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/blocco-calltoaction.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/blocco-scrolltotop.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/default/loader.html.twig" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
         <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/default/head.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/default/blocco-header.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/default/footer.html.twig" />
       </list>
     </option>
   </component>
@@ -438,12 +411,12 @@
       <option name="presentableId" value="Default" />
       <updated>1503308176167</updated>
       <workItem from="1503308177771" duration="14149000" />
-      <workItem from="1503384971421" duration="1941000" />
+      <workItem from="1503384971421" duration="2977000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16090000" />
+    <option name="totallyTimeSpent" value="17126000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1001" extended-state="6" />
@@ -485,7 +458,7 @@
         <state relative-caret-position="285">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="e#40#99#0#PHP" expanded="false" />
+            <element signature="e#447#465#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -495,21 +468,19 @@
         <state relative-caret-position="3375">
           <caret line="225" column="42" lean-forward="false" selection-start-line="225" selection-start-column="42" selection-end-line="225" selection-end-column="42" />
           <folding>
-            <element signature="e#45#68#0#Twig" expanded="true" />
-            <element signature="e#92#115#0#Twig" expanded="true" />
-            <element signature="e#132#164#0#Twig" expanded="true" />
-            <element signature="e#181#214#0#Twig" expanded="true" />
-            <element signature="e#231#272#0#Twig" expanded="true" />
-            <element signature="e#289#321#0#Twig" expanded="true" />
-            <element signature="e#338#373#0#Twig" expanded="true" />
-            <element signature="e#390#425#0#Twig" expanded="true" />
-            <element signature="e#442#479#0#Twig" expanded="true" />
-            <element signature="e#496#534#0#Twig" expanded="true" />
-            <element signature="e#551#585#0#Twig" expanded="true" />
-            <element signature="e#601#626#0#Twig" expanded="true" />
-            <element signature="e#643#680#0#Twig" expanded="true" />
-            <element signature="e#697#722#0#Twig" expanded="true" />
-            <element signature="e#739#760#0#Twig" expanded="true" />
+            <element signature="e#136#168#0#Twig" expanded="true" />
+            <element signature="e#185#218#0#Twig" expanded="true" />
+            <element signature="e#235#276#0#Twig" expanded="true" />
+            <element signature="e#293#325#0#Twig" expanded="true" />
+            <element signature="e#342#377#0#Twig" expanded="true" />
+            <element signature="e#394#429#0#Twig" expanded="true" />
+            <element signature="e#446#483#0#Twig" expanded="true" />
+            <element signature="e#500#538#0#Twig" expanded="true" />
+            <element signature="e#555#589#0#Twig" expanded="true" />
+            <element signature="e#605#630#0#Twig" expanded="true" />
+            <element signature="e#647#684#0#Twig" expanded="true" />
+            <element signature="e#701#726#0#Twig" expanded="true" />
+            <element signature="e#743#764#0#Twig" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -522,44 +493,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/bundles/app/css/main.css" />
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#40#99#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/head.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="7" lean-forward="false" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/menu.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/default/js.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/footer.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -612,14 +549,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/blocco-header.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/default/blocco-banner.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -652,27 +581,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/index2.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-671">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+          <folding>
+            <element signature="e#447#465#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/menu.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        <state relative-caret-position="30">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding>
-            <element signature="e#45#68#0#Twig" expanded="true" />
-            <element signature="e#92#115#0#Twig" expanded="true" />
-            <element signature="e#132#164#0#Twig" expanded="true" />
-            <element signature="e#181#214#0#Twig" expanded="true" />
-            <element signature="e#231#272#0#Twig" expanded="true" />
-            <element signature="e#289#321#0#Twig" expanded="true" />
-            <element signature="e#338#373#0#Twig" expanded="true" />
-            <element signature="e#390#425#0#Twig" expanded="true" />
-            <element signature="e#442#479#0#Twig" expanded="true" />
-            <element signature="e#496#534#0#Twig" expanded="true" />
-            <element signature="e#551#585#0#Twig" expanded="true" />
-            <element signature="e#601#626#0#Twig" expanded="true" />
-            <element signature="e#643#680#0#Twig" expanded="true" />
-            <element signature="e#697#722#0#Twig" expanded="true" />
-            <element signature="e#739#760#0#Twig" expanded="true" />
+            <element signature="e#136#168#0#Twig" expanded="true" />
+            <element signature="e#185#218#0#Twig" expanded="true" />
+            <element signature="e#235#276#0#Twig" expanded="true" />
+            <element signature="e#293#325#0#Twig" expanded="true" />
+            <element signature="e#342#377#0#Twig" expanded="true" />
+            <element signature="e#394#429#0#Twig" expanded="true" />
+            <element signature="e#446#483#0#Twig" expanded="true" />
+            <element signature="e#500#538#0#Twig" expanded="true" />
+            <element signature="e#555#589#0#Twig" expanded="true" />
+            <element signature="e#605#630#0#Twig" expanded="true" />
+            <element signature="e#647#684#0#Twig" expanded="true" />
+            <element signature="e#701#726#0#Twig" expanded="true" />
+            <element signature="e#743#764#0#Twig" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/head.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="78" lean-forward="false" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/blocco-header.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="101" lean-forward="false" selection-start-line="15" selection-start-column="101" selection-end-line="15" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/footer.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
