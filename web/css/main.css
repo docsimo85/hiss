@@ -938,7 +938,7 @@ a:not([href]):not([tabindex]):hover {
   width: 100%;
   margin-bottom: 20px;
   padding: 18px;
-  color: #fff;
+  color: #333333;
   font-size: 14px;
   border-radius: 4px;
   -webkit-transition: all 0.3s;
